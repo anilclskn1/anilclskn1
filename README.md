@@ -1,4 +1,4 @@
-# Hi there, I'm Anıl
+# Hi there, I'm Anıl! 👋🏼
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilclskn1&show_icons=true&theme=radical)
 
